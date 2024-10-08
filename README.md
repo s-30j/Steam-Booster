@@ -1,1 +1,50 @@
 # Steam Booster
+
+<p align="center">
+<img width="264.6" height="154" src="https://i.imgur.com/PUCBfA6.png">
+</p>
+
+<h1 align= "center"><b>
+  About
+  </b>
+</h1>
+<p align= "center">
+Steam Booster is C# based script for idling (boosting playtime in hours) for choosen game without using computer resources.<br>
+<a align= "center" href="https://github.com/Refloow/Steam-Games-Idle">I Like Steam-Games-Idle</a>
+</p>
+  <hr>
+
+
+# how to run
+
+1. build or download [release]([https://github.com](https://github.com/s-30j/Steam-Booster/releases/))
+
+2. set game id in `steam_appid.txt` for EXAMPLE: [570,440,730,...] Make sure to have game in library. 
+<hr>
+
+570 // Dota 2
+
+440 // TeamFortress2
+
+730 // CSGO
+
+252490 // Rust
+
+346110 // ARK
+
+271590 // GTA V
+<hr>
+
+3. Make sure Steam is running and logged in
+
+3. Run `Steam Booster.exe` and enjoy
+
+
+
+## HOW TO FIND ANOTHER GAME ID ? 
+
+GO to the store page  https://store.steampowered.com/explore/
+Find game you want to idle for (example CS:GO)
+Inside of store page url of this game is gameid : https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
+
+# Don't forget to give a star!
