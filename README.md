@@ -16,7 +16,6 @@ Steam Booster is C# based script for idling (boosting playtime in hours) for cho
 
 
 <img src="https://github.com/s-30j/Steam-Booster/blob/master/img.png"/>
-<br>
 <img src="https://github.com/s-30j/Steam-Booster/blob/master/img2.png"/>
 
 # how to run
