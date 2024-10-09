@@ -53,6 +53,8 @@ USDT (TRC20) ```TLZLsusRL5pSgb9VC4ttvooRwdfGpBBeMv```
 
 USDT (ERC20) ```0x34Efa6c58D6bEc8114c0b123A0C14c0929Ee0103```
 
+Tron (TRX) ```TLZLsusRL5pSgb9VC4ttvooRwdfGpBBeMv```
+
 BTC (BTC-MAIN) ```bc1qzuzmhygqgqs69hm8qzfnwnrcg8ll2sl7gqfkhs```
 
 BTC (BTC-BSC) ```0x34Efa6c58D6bEc8114c0b123A0C14c0929Ee0103```
