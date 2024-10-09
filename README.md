@@ -38,7 +38,12 @@ Steam Booster is C# based script for idling (boosting playtime in hours) for cho
 3. Make sure Steam is running and logged in
 
 3. Run `Steam Booster.exe` and enjoy
-4. `Steam Booster.exe` must be closed in Task Manager
+
+**it's not working?**
+
+**Close and run as administrator**
+
+5. `Steam Booster.exe` must be closed in Task Manager
 
 
 
