@@ -48,7 +48,16 @@ Steam Booster is C# based script for idling (boosting playtime in hours) for cho
 
 5. `Steam Booster.exe` must be closed in Task Manager
 
+# Donate
+USDT (TRC20) ```TLZLsusRL5pSgb9VC4ttvooRwdfGpBBeMv```
 
+USDT (ERC20) ```0x34Efa6c58D6bEc8114c0b123A0C14c0929Ee0103```
+
+BTC (BTC-MAIN) ```bc1qzuzmhygqgqs69hm8qzfnwnrcg8ll2sl7gqfkhs```
+
+BTC (BTC-BSC) ```0x34Efa6c58D6bEc8114c0b123A0C14c0929Ee0103```
+
+Iranian Rial : https://idpay.ir/s-30j
 
 ## HOW TO FIND ANOTHER GAME ID ? 
 
